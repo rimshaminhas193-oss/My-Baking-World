@@ -16,9 +16,9 @@ The main goal of this project is to create a simple yet charming webpage that hi
 
 * Informative Content: Each section contains informative paragraphs and relevant images that describe each baking item.
 
-Responsive: The website's layout is designed to look good on different screen sizes.
+**Responsive:** The website's layout is designed to look good on different screen sizes.
 
-Technologies Used 🛠️
-HTML: The entire webpage is built with HTML.
+## Technologies Used 🛠️
+* HTML: The entire webpage is built with HTML.
 
-Git & GitHub: Used for version control and hosting the project.
+* Git & GitHub: Used for version control and hosting the project.
